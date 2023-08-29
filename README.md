@@ -11,7 +11,7 @@ Diagonalisation of Matrices:
 - Diagonalization involves finding a matrix P of eigenvectors and a diagonal matrix D such that P^(-1)AP = D, where A is the original matrix.
 
 Printing Programs:
-- Printing programs display information or output on a screen or paper.
+- Printing programs display information or output on a screen or paper (helps print a matrix in an organized format).
 - They are essential for communication in programming and software development.
 - In languages like Python, "print()" is a common function to output text or variables to the console.
 - Printing can include formatted text, variables, calculations, and more.
